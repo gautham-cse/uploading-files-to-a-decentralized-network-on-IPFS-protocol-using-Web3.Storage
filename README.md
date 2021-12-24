@@ -1,7 +1,7 @@
 <!-- @author: gautham_reddy_mrrv -->
 <!-- src: https://web3.storage -->
 <h1>Welcome to Web 3.0</h1>
-<h2> Uploading files in a Decentralised network using Web3 Storage with Node js running on IPFS protocol </h2>
+<h2> Uploading files in a Decentralized network using Web3 Storage with Node js running on IPFS protocol </h2>
 <p>Create a file "put-file.js" & paste the code down below </p>
 
 ```
