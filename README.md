@@ -58,7 +58,7 @@ main()
 ```
 
 > npm install 
-<p>Get your sharable files and be sure to place them in the same working folder before uploading them to the decentralized network called IPFS(InterPlantery File System). </p>
+<p>Get your sharable files and be sure to place them in the same working folder before uploading them to the decentralized network called IPFS(InterPlanetary File System). </p>
 
 ``` 
 node put-file.js --token=<YOUR_TOKEN> ~/fileName1 ~/fileName2 ~/fileNameN
